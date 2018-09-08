@@ -1,6 +1,10 @@
 <html>
   <head><title>Page 1</title> </head>
   <body> 
-  <h1> Hello World </h1>
+    <script>
+      document.write("Hello World")
+    </script>
+      
+ 
   </body>
 </html>
